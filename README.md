@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kyaw Zin Win</h1>
+<h1 align="center" style="color: #0000FF">Hi 👋, I'm Kyaw Zin Win</h1>
 
 <h3 align="center">A Developer From Myanmar</h3>
 
