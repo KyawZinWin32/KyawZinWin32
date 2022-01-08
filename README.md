@@ -1,8 +1,6 @@
 <h1 align="center" style="color: #0000FF">Hi 👋, I'm Kyaw Zin Win</h1>
 
-<h3 align="center">A Developer From Myanmar</h3>
-
-- 📝 I regularly write articles on [www.kyawzinwin.online](www.kyawzinwin.online)
+<h3 align="center">A Frontend Developer From Myanmar</h3>
 
 - 📫 How to reach me **https://www.facebook.com/kyawzinwin.contact**
 
